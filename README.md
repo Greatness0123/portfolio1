@@ -23,7 +23,7 @@ This is a clean and modern personal portfolio site built to present my professio
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6)**
-- **Integrated Development Environment**:visual studio code I
+- **Integrated Development Environment**: visual studio code 
 - **Version Control**: Git
 - **Deployment**: GitHub, Vercel
 
